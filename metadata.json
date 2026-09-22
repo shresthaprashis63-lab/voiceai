@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech Studio",
+  "description": "Convert text into expressive speech with multiple voice styles, real-time playback, and downloadable audio files for offline listening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
